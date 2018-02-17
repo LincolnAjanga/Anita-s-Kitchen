@@ -63,3 +63,7 @@ html, body{
 	transition: 0.7s all linear;
 	height: 100%;
 }
+
+.thumbnail{
+	padding-left: 200px;
+}
