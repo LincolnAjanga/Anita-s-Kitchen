@@ -38,30 +38,6 @@ html, body{
 	text-align: center;
 	color: #fff
 }
-.navbar, .navbar-inverse {
-	border-radius: 0;
-	border: none;
-	margin-bottom: 0;
-	min-height: 80px;
-}
-
-.nav li {
-	display: inline;
-	color: white;
-}
-
-.navbar-inverse .navbar-nav > li > a {
-	color: #ffffff;
-	font-size: 1.7em;
-	font-weight: 300;
-	padding: 30px 25px 33px 25px;
-}
-
-.navbar-inverse .navbar-nav li a:hover {
-	background-color: #444444;
-	transition: 0.7s all linear;
-	height: 100%;
-}
 
 .thumbnail{
 	padding-left: 200px;
@@ -74,9 +50,119 @@ html, body{
 
 .column{
 	padding-left: 800px;
-	
+
 }
 
 .miz{
 	padding-top: 100px;
+}
+
+.happy{
+  background-color: #E5D6D6;
+  height: 100px;
+  text-align: center;
+  color: #050404;
+  padding-top: 80px;
+ 
+}
+.Party{
+  background-color: #EB5819;
+  height: 100px;
+  text-align: center;
+  color: #fff;
+  padding-top: 80px;
+ }
+
+
+.row1g1a{
+  background-color: #E5D6D6;
+  height: 100px;
+  text-align: center;
+  color: #050404;
+}
+.row1g1b{
+  background-color: #EB5819;
+  height: 100px;
+  text-align: center;
+  color: #ffffff;
+}
+.row1g2{
+  background: url("");
+  height: 200px;
+  text-align: center;
+  color: #ffffff;
+}
+.row1g2:hover{
+  opacity: 0.5;
+  color: black;
+  font-weight: bolder;
+  background: url('/home/lincoln/Documents/Anita-s-Kitchen/assets/foodtop/breakfast.jpg');
+}
+.row1g3{
+  background: url("");
+  height: 200px;
+  text-align: center;
+  color: #ffffff;
+}
+.row1g3:hover{
+  opacity: 0.5;
+  color: black;
+}
+.row1g4{
+  background: url("");
+  height: 200px;
+  text-align: center;
+  color: #ffffff;
+}
+.row1g4:hover{
+  opacity: 0.5;
+  color: black;
+}
+.imgsize{
+  object-fit: contain;
+  display: block;
+  margin: -4px;
+}
+.row2g1{
+  padding-left: 7%;
+  padding-top: 80px;
+  height: 390px;
+  width: auto;
+  float: left;
+}
+
+.row2g2{
+  height: 390px;
+  padding-top: 80px;
+  padding-left: 0px;
+  float: right;
+  height: auto;
+  width: 80%;
+  display: inline-block;
+}
+.imgsize2{
+  display: inline-block;
+  margin: -4px;
+}
+.row3g1{
+  height: 390px;
+  padding-top: 80px;
+  padding-left: 20px;
+  text-align: right;
+  float: left;
+  height: 395px;
+  width: 83%;
+}
+.row3g2{
+  height: auto;
+  padding-left: 30px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  float: left;
+  
+}
+.row4{
+  background: url("");
+  height: 500px;
+  text-align: center;
 }
