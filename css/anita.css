@@ -74,47 +74,48 @@ html, body{
  }
 
 
-.row1g1a{
+.forge{
   background-color: #E5D6D6;
   height: 100px;
   text-align: center;
   color: #050404;
 }
-.row1g1b{
+.forge{
   background-color: #EB5819;
   height: 100px;
   text-align: center;
   color: #ffffff;
+  padding: 0px
 }
-.row1g2{
+.meek{
   background: url("");
   height: 200px;
   text-align: center;
-  color: #ffffff;
+  color: #fff;
+   background: url('/home/lincoln/Documents/Anita-s-Kitchen/assets/foodtop/breakfast.jpg');
 }
-.row1g2:hover{
+.meek:hover{
   opacity: 0.5;
   color: black;
   font-weight: bolder;
-  background: url('/home/lincoln/Documents/Anita-s-Kitchen/assets/foodtop/breakfast.jpg');
 }
-.row1g3{
-  background: url("");
+.jole{
+  background: url("/home/lincoln/hack/Restaurant/assets/foodtop/lunch.jpg");
   height: 200px;
   text-align: center;
-  color: #ffffff;
+  color: #fff;
 }
-.row1g3:hover{
+.jole:hover{
   opacity: 0.5;
   color: black;
 }
-.row1g4{
-  background: url("");
+.mole{
+  background: url("/home/lincoln/hack/Restaurant/assets/foodtop/dinner.jpg");
   height: 200px;
   text-align: center;
-  color: #ffffff;
+  color: #fff;
 }
-.row1g4:hover{
+.mole:hover{
   opacity: 0.5;
   color: black;
 }
@@ -131,7 +132,7 @@ html, body{
   float: left;
 }
 
-.row2g2{
+.moose{
   height: 390px;
   padding-top: 80px;
   padding-left: 0px;
@@ -144,7 +145,7 @@ html, body{
   display: inline-block;
   margin: -4px;
 }
-.row3g1{
+.geek{
   height: 390px;
   padding-top: 80px;
   padding-left: 20px;
@@ -153,7 +154,7 @@ html, body{
   height: 395px;
   width: 83%;
 }
-.row3g2{
+.goose{
   height: auto;
   padding-left: 30px;
   padding-top: 80px;
@@ -165,4 +166,19 @@ html, body{
   background: url("");
   height: 500px;
   text-align: center;
+}
+
+.polaroid {
+  box-shadow: 0 0 10px #000000;
+  width: auto;
+  height: auto;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 20px;
+}
+
+.imgsize{
+  object-fit: contain;
+  display: block;
+  margin: -4px;
 }
