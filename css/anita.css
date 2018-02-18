@@ -43,6 +43,7 @@ html, body{
 	text-align: center;
 	color: #fff;
 	padding-top:-30px;
+	font-family: 'Nanum Myeongjo', serif;
 }
 
 .thumbnail{
@@ -151,6 +152,7 @@ html, body{
   width: 80%;
   display: inline-block;
 }
+
 .imgsize2{
   display: inline-block;
   margin: -4px;
@@ -191,4 +193,23 @@ html, body{
   object-fit: contain;
   display: block;
   margin: -4px;
+}
+
+.moose{
+  height: 390px;
+  padding-top: 80px;
+  padding-left: 0px;
+  float: right;
+  height: auto;
+  width: 80%;
+  display: inline-block;
+}
+
+.first{
+  padding-left: 5%;
+  padding-top: 80px;
+  padding-right: 100px;
+  height: 30px;
+  width: auto;
+  float: left;
 }
