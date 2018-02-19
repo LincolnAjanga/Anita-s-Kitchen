@@ -97,7 +97,7 @@ html, body{
   padding: 0px
 }
 .meek{
-  background: url("");
+  /*background: url("");*/
   height: 200px;
   width: 350px;
   text-align: center;
@@ -141,18 +141,14 @@ html, body{
   padding-left: 30px;
   padding-top: 80px;
   padding-bottom: 80px;
-  float: left;
+  float: right;
   display: inline-block;
 }
 
 .moose{
-  height: 390px;
-  padding-top: 80px;
-  padding-left: 0px;
-  float: right;
-  height: auto;
-  width: 80%;
-  
+  width:100%;
+  margin-left: 100px;
+  margin-right: 40px
 }
 
 .imgsize2{
@@ -197,7 +193,7 @@ html, body{
   margin: -4px;
 }
 
-.moose{
+/*.moose{
   height: 390px;
   padding-top: 80px;
   padding-left: 0px;
@@ -206,7 +202,7 @@ html, body{
   width: 80%;
   display: inline-block;
 }
-
+*/
 .first{
   padding-left: 5%;
   padding-top: 80px;
